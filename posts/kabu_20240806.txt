@@ -1,0 +1,78 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[5566,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+7:I[8791,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+8:I[9806,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+9:I[8917,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+a:I[7005,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+b:I[4885,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+c:I[2591,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+4:["slug","kabu_20240806","d"]
+0:["ryXwY27AThCX8Wwd7y0lI",[[["",{"children":["posts",{"children":[["slug","kabu_20240806","d"],{"children":["__PAGE__?{\"slug\":\"kabu_20240806\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","kabu_20240806","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L8",null,{"children":[["$","$L9",null,{"children":["$","$La",null,{"href":"/","children":["$","$Lb",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Lc",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$L9",null,{"sx":{"left":0},"children":["$","$La",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/13e083f43dca6d65.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+f:I[231,["231","static/chunks/231-cba7e8247f01e444.js","333","static/chunks/app/posts/%5Bslug%5D/page-83f4dbc91f20ad98.js"],""]
+e:T16b5,<p>個別株投資を始めるにあたっての勉強まとめです。</p>
+<p>以下はChatGPTとCopliotに教えてもらった内容</p>
+<h2>チャートの種類</h2>
+<h3>ラインチャート (Line Chart):</h3>
+<p>各取引日の終値を点で示し、それらの点を線で結んだシンプルなチャートです。
+長期的なトレンドを把握するのに適しています。</p>
+<h3>バーチャート (Bar Chart):</h3>
+<p>各取引日の高値、安値、始値、終値を示す棒状のチャートです。
+市場の動きやボラティリティを詳細に見ることができます。</p>
+<h3>ローソク足チャート (Candlestick Chart):</h3>
+<p>日本で開発されたチャートで、各取引日の始値、終値、高値、安値を「ローソク足」として表現します。</p>
+<p>視覚的に分かりやすく、トレンドの転換点やパターンを見つけやすいです。</p>
+<h2>チャート分析の基本</h2>
+<h3>トレンド分析</h3>
+<h4>上昇トレンド（Uptrend）</h4>
+<p>株価が高値と安値を更新し続ける動きです。上昇トレンドラインを引くことで、サポートラインとして機能します。</p>
+<h4>下降トレンド（Downtrend）</h4>
+<p>株価が安値と高値を切り下げ続ける動きです。下降トレンドラインを引くことで、レジスタンスラインとして機能します。</p>
+<h4>横ばいトレンド（Sideways or Range-bound）</h4>
+<p>株価が一定の範囲内で動く状態です。</p>
+<h3>サポートとレジスタンス</h3>
+<h4>サポート（Support）</h4>
+<p>株価が下落しても反発する価格帯。多くの買い注文が集まることで、価格がこれ以上下がりにくくなります。</p>
+<h4>レジスタンス（Resistance）</h4>
+<p>株価が上昇しても抑えられる価格帯。多くの売り注文が集まることで、価格がこれ以上上がりにくくなります。</p>
+<h2>具体的な分析手法</h2>
+<h3>トレンドラインの引き方</h3>
+<p>上昇トレンドライン: 安値を結んで上向きの直線を引く。
+下降トレンドライン: 高値を結んで下向きの直線を引く。</p>
+<h3>サポートとレジスタンスの特定</h3>
+<p>サポートライン: 過去に価格が反発した価格帯を基に線を引く。
+レジスタンスライン: 過去に価格が抑えられた価格帯を基に線を引く。</p>
+<h3>チャートパターンの識別</h3>
+<p>ダブルトップ（Double Top）: 価格が二度同じ高値に達した後に下落するパターン。
+ダブルボトム（Double Bottom）: 価格が二度同じ安値に達した後に上昇するパターン。
+ヘッドアンドショルダー（Head and Shoulders）: 中央の高値が両側の高値よりも高いパターン。</p>
+<h2>主要なチャートパターン</h2>
+<h3>ダブルトップ（Double Top）</h3>
+<p>形状: 価格が二度同じ高値に達し、その間に一度下落した後、再び同じ高値に達した後に再度下落するパターン。
+意味: このパターンは上昇トレンドの終わりを示し、下降トレンドの開始を予測します。
+ポイント: 二つの高値の間の谷（サポートライン）を割ると、強力な売りシグナルとなります。
+<img src="/images/trade/double_top.jpg" alt="doubletop"></p>
+<h3>ダブルボトム（Double Bottom）</h3>
+<p>形状: 価格が二度同じ安値に達し、その間に一度上昇した後、再び同じ安値に達した後に再度上昇するパターン。
+意味: このパターンは下降トレンドの終わりを示し、上昇トレンドの開始を予測します。
+ポイント: 二つの安値の間の山（レジスタンスライン）を超えると、強力な買いシグナルとなります。</p>
+<h3>ヘッドアンドショルダー（Head and Shoulders）</h3>
+<p>形状: 中央の高値（頭）が両側の高値（肩）よりも高いパターン。
+意味: このパターンは上昇トレンドの終わりを示し、下降トレンドの開始を予測します。
+ポイント: 肩と肩を結ぶライン（ネックライン）を下抜けると、強力な売りシグナルとなります。</p>
+<h3>逆ヘッドアンドショルダー（Inverse Head and Shoulders）</h3>
+<p>形状: 中央の安値（頭）が両側の安値（肩）よりも低いパターン。
+意味: このパターンは下降トレンドの終わりを示し、上昇トレンドの開始を予測します。
+ポイント: 肩と肩を結ぶライン（ネックライン）を上抜けると、強力な買いシグナルとなります。</p>
+<h3>トライアングル（Triangle）</h3>
+<p>形状: 上昇三角形（Ascending Triangle）、下降三角形（Descending Triangle）、対称三角形（Symmetrical Triangle）などの形状があります。
+意味: トライアングルは収束する価格範囲を示し、ブレイクアウト（突破）が起こると強力なトレンドが発生します。
+ポイント: 上昇三角形ではレジスタンスラインの突破が買いシグナル、下降三角形ではサポートラインの突破が売りシグナルとなります。</p>
+<h3>フラッグ（Flag）とペナント（Pennant）</h3>
+<p>形状: 短期間の価格調整を示すパターンで、フラッグは平行線で囲まれた形状、ペナントは収束する三角形の形状をとります。
+意味: これらのパターンは強いトレンドの一時的な休止を示し、ブレイクアウト後に元のトレンドが継続することが多いです。
+ポイント: フラッグやペナントの形状を抜ける方向にエントリーすると有効です。</p>
+<h2>所感</h2>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"【株式投資】チャート分析"}],["$","time",null,{"children":"2024-08-06"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","株式投資",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/株式投資","children":"株式投資"}]}],["$","span","個別株",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/個別株","children":"個別株"}]}],["$","span","板",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/板","children":"板"}]}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"【株式投資】チャート分析 | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

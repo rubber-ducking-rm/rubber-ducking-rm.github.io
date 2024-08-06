@@ -1,0 +1,66 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[5566,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+7:I[8791,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+8:I[9806,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+9:I[8917,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+a:I[7005,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+b:I[4885,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+c:I[2591,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+4:["slug","web_0717","d"]
+0:["ryXwY27AThCX8Wwd7y0lI",[[["",{"children":["posts",{"children":[["slug","web_0717","d"],{"children":["__PAGE__?{\"slug\":\"web_0717\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","web_0717","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L8",null,{"children":[["$","$L9",null,{"children":["$","$La",null,{"href":"/","children":["$","$Lb",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Lc",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$L9",null,{"sx":{"left":0},"children":["$","$La",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/13e083f43dca6d65.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+f:I[231,["231","static/chunks/231-cba7e8247f01e444.js","333","static/chunks/app/posts/%5Bslug%5D/page-83f4dbc91f20ad98.js"],""]
+e:Tdc8,<p><a href="https://mui.com/material-ui/react-drawer/" rel="nofollow" target="_blank">MUI公式のコード</a>はとても綺麗でよいのですが、一方で装飾が多くパッと見でよく分からないのでシンプルな形にしました。</p>
+<h1>前提</h1>
+<ul>
+<li>next: 14.2.5</li>
+<li>mui/material: 5.16.4</li>
+</ul>
+<h1>コード</h1>
+<pre class="language-tsx"><code class="hljs language-tsx code-highlight"><span class="hljs-string">"use client"</span>;
+
+<span class="hljs-keyword">import</span> {
+  <span class="hljs-title class_">Drawer</span>,
+  <span class="hljs-title class_">List</span>,
+  <span class="hljs-title class_">ListItem</span>,
+  <span class="hljs-title class_">ListItemButton</span>,
+  <span class="hljs-title class_">ListItemText</span>,
+} <span class="hljs-keyword">from</span> <span class="hljs-string">"@mui/material"</span>;
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">SideBar</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-comment">// ListItemButtonクリック時の挙動</span>
+  <span class="hljs-keyword">const</span> <span class="hljs-title function_">onClickItem</span> = (<span class="hljs-params">text: <span class="hljs-built_in">string</span></span>) => {
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">"text"</span>, text);
+  };
+
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">Drawer</span> <span class="hljs-attr">variant</span>=<span class="hljs-string">"permanent"</span>
+     <span class="hljs-attr">sx</span>=<span class="hljs-string">{{</span>
+        <span class="hljs-attr">width:</span> <span class="hljs-attr">drawerWidth</span>,
+        <span class="hljs-attr">flexShrink:</span> <span class="hljs-attr">0</span>,
+        [`&#x26; <span class="hljs-attr">.MuiDrawer-paper</span>`]<span class="hljs-attr">:</span> { <span class="hljs-attr">width:</span> <span class="hljs-attr">drawerWidth</span>, <span class="hljs-attr">boxSizing:</span> "<span class="hljs-attr">border-box</span>" },
+      }}
+    ></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">List</span>></span>
+        {["Dashboard", "Tables", "Maps", "Pages"].map((text, _index) => (
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItem</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{text}</span> <span class="hljs-attr">disablePadding</span>></span>
+            <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItemButton</span>
+              <span class="hljs-attr">onClick</span>=<span class="hljs-string">{()</span> =></span> {
+                onClickItem(text);
+              }}
+            >
+              <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItemText</span> <span class="hljs-attr">primary</span>=<span class="hljs-string">{text}</span> /></span>
+            <span class="hljs-tag">&#x3C;/<span class="hljs-name">ListItemButton</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">ListItem</span>></span>
+        ))}
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">List</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">Drawer</span>></span></span>
+  );
+}
+
+</code></pre>
+<h1>結果</h1>
+<p><img src="/images/web/20240718/sidebar.png" alt="sidebar"></p>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"MUIで作るサイドバーのサンプル"}],["$","time",null,{"children":"2024-07-17"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","nextjs",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/nextjs","children":"nextjs"}]}],["$","span","mui",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/mui","children":"mui"}]}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"MUIで作るサイドバーのサンプル | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

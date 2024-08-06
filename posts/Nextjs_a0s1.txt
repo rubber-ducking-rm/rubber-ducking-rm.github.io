@@ -1,0 +1,64 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[5566,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+7:I[8791,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+8:I[9806,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],"default"]
+9:I[8917,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+a:I[7005,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+b:I[4885,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+c:I[2591,["323","static/chunks/323-167049d87d90a65d.js","634","static/chunks/634-286ec1f21fb3d023.js","185","static/chunks/app/layout-c3b0b988af2e138e.js"],""]
+4:["slug","Nextjs_a0s1","d"]
+0:["ryXwY27AThCX8Wwd7y0lI",[[["",{"children":["posts",{"children":[["slug","Nextjs_a0s1","d"],{"children":["__PAGE__?{\"slug\":\"Nextjs_a0s1\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","Nextjs_a0s1","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L8",null,{"children":[["$","$L9",null,{"children":["$","$La",null,{"href":"/","children":["$","$Lb",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Lc",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$L9",null,{"sx":{"left":0},"children":["$","$La",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/13e083f43dca6d65.css","precedence":"next","crossOrigin":"$undefined"}]],"$Ld"]]]]
+f:I[231,["231","static/chunks/231-cba7e8247f01e444.js","333","static/chunks/app/posts/%5Bslug%5D/page-83f4dbc91f20ad98.js"],""]
+e:Tb41,<h1>前提</h1>
+<ul>
+<li>tailwindcss:3.4.1</li>
+<li>Nextjs:14.2.4</li>
+<li>フォントのデータは以下を利用
+<ul>
+<li>ttfファイル</li>
+<li>Google Fonts</li>
+</ul>
+</li>
+</ul>
+<h1>手順</h1>
+<h2>globals.css編集</h2>
+<p>フォント名とパスを指定する</p>
+<pre class="language-css"><code class="hljs language-css code-highlight"><span class="hljs-comment">/* ttfファイル(事前にpublicに置く) */</span>
+<span class="hljs-keyword">@font-face</span> {
+  <span class="hljs-attribute">font-family</span>: <span class="hljs-string">"FontFile"</span>;
+  <span class="hljs-attribute">src</span>: <span class="hljs-built_in">url</span>(<span class="hljs-string">"../../public/fonts/FontFile.ttf"</span>);
+}
+
+<span class="hljs-comment">/* Google Fonts */</span>
+<span class="hljs-keyword">@font-face</span> {
+  <span class="hljs-attribute">font-family</span>: <span class="hljs-string">"Rampart_One"</span>;
+  <span class="hljs-attribute">src</span>: <span class="hljs-built_in">url</span>(<span class="hljs-string">"https://fonts.googleapis.com/css2?family=Rampart+One&#x26;display=swap"</span>);
+}
+
+</code></pre>
+<h2>tailwind.config.ts編集</h2>
+<p>fontFamilyに追記</p>
+<pre class="language-ts"><code class="hljs language-ts code-highlight"><span class="hljs-keyword">import</span> <span class="hljs-keyword">type</span> { <span class="hljs-title class_">Config</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">"tailwindcss"</span>;
+
+<span class="hljs-keyword">const</span> <span class="hljs-attr">config</span>: <span class="hljs-title class_">Config</span> = {
+  <span class="hljs-attr">content</span>: [],
+  <span class="hljs-attr">theme</span>: {
+    <span class="hljs-attr">extend</span>: {
+      <span class="hljs-attr">fontFamily</span>: {
+        <span class="hljs-attr">file</span>: [<span class="hljs-string">"FontFile"</span>, <span class="hljs-string">"sans-serif"</span>],
+        <span class="hljs-attr">rampart</span>: [<span class="hljs-string">"Rampart_One"</span>, <span class="hljs-string">"sans-serif"</span>],
+      },
+    },
+  },
+};
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> config;
+</code></pre>
+<h2>フォントの反映</h2>
+<p>classNameに[font-〇〇]で指定します。</p>
+<pre class="language-html"><code class="hljs language-html code-highlight"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"font-file"</span>></span> あいうえお<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+<span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"font-rampart"</span>></span> あいうえお<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+</code></pre>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"Tailwind CSSでフォントの設定"}],["$","time",null,{"children":"2024-07-05"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$e"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","Nextjs",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$Lf",null,{"href":"/tags/Nextjs","children":"Nextjs"}]}]]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tailwind CSSでフォントの設定 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"フォントの設定"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
