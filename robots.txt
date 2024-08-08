@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://maemaemae.blog/
+
+# Sitemaps
+Sitemap: https://maemaemae.blog/sitemap.xml
