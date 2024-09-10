@@ -1,0 +1,50 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","kabu_20240815","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","kabu_20240815","d"],{"children":["__PAGE__?{\"slug\":\"kabu_20240815\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","kabu_20240815","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:Tc93,<p>株式投資初心者の私がGeminiやChatGPT、Copilotの先生方に教えてもらった内容まとめです。</p>
+<h2>高配当株投資ってなに？</h2>
+<p>「高配当株投資」とは、簡単に言うと、企業が株主に支払うお小遣い（配当金）がたくさんもらえる株を選ぶ投資のことです。このお小遣いは、企業が得た利益の一部を株主に還元してくれるものです。</p>
+<h2>なぜ高配当株が人気なの？</h2>
+<h3>毎月のお小遣いみたい:</h3>
+<p>定期的に配当金がもらえるので、まるで毎月のお小遣いを貰っているような感覚で投資を楽しめます。</p>
+<h3>複利効果で資産が増える:</h3>
+<p>もらった配当金をさらに投資に回せば、雪だるま式に資産を増やせる可能性があります。</p>
+<h3>株価が下がっても安心感:</h3>
+<p>株価が下がっても、配当金は一定の収入源となるので、心強い味方です。</p>
+<h2>高配当株を選ぶときのポイント</h2>
+<ul>
+<li>配当金の安定性: 過去に配当を減らしたり、中止したりしていないか確認しましょう。</li>
+<li>企業の財務状況: 企業の借金が多すぎたり、赤字だったりすると、将来の配当が不安です。</li>
+<li>業界の将来性: 属している業界が将来性のあるものか確認しましょう。</li>
+<li>株価の割安感: 株価が割安な銘柄を選ぶことで、将来の株価上昇も期待できます。</li>
+</ul>
+<h2>高配当株投資のリスク</h2>
+<ul>
+<li>配当カットのリスク: 企業の業績が悪化すると、配当が減額される可能性があります。</li>
+<li>株価の低迷: 高配当株は、株価が低い状態が続くことがあります。</li>
+</ul>
+<h2>高配当株投資に向いている人</h2>
+<ul>
+<li>安定した収入源が欲しい人: 定期的な配当金で生活費の足しにするなど、安定した収入源を求めている人。</li>
+<li>長期投資に耐えうる人: 短期的な利益ではなく、長期的に資産を増やしたい人。</li>
+<li>リスクをある程度許容できる人: 株価の変動や配当カットのリスクを理解し、受け入れられる人。</li>
+</ul>
+<h2>高配当株投資を始めたいあなたへ</h2>
+<p>高配当株投資は、初心者でも始められる魅力的な投資方法です。しかし、投資は自己責任です。必ずご自身でよく調べて、専門家にも相談しながら、自分に合った投資方法を選びましょう。</p>
+<h2>まとめ</h2>
+<p>高配当株投資は、安定した収入と資産の増殖の両方を期待できる魅力的な投資方法です。しかし、リスクも存在します。しっかりとメリットとデメリットを理解し、長期的な視点で投資に取り組むことが大切です。</p>
+<p>この記事が、あなたの株式投資の一助となれば幸いです。</p>
+<p>ただし<strong>株式投資は、リスクを伴う行為です。</strong> 投資を行う際は、必ずご自身でよく調べて、ご自身の判断で行うようにしてください。</p>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"株式投資初心者向け：高配当株投資とは？その魅力と注意点"}],["$","time",null,{"children":"2024-08-15"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","株式投資",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/株式投資","children":"株式投資"}]}],["$","span","個別株",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/個別株","children":"個別株"}]}],["$","span","高配当株投資",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/高配当株投資","children":"高配当株投資"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"株式投資初心者向け：高配当株投資とは？その魅力と注意点 | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

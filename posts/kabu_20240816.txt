@@ -1,0 +1,63 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","kabu_20240816","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","kabu_20240816","d"],{"children":["__PAGE__?{\"slug\":\"kabu_20240816\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","kabu_20240816","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:Te4c,<p>株式投資初心者の私がGeminiやChatGPT、Copilotの先生方に教えてもらった内容まとめです。</p>
+<h2>EPSって何？</h2>
+<p>EPSとは、**「一株当たり純利益」**のことです。企業が1年間で稼いだお金を、全株主で山分けしたときに、1株あたりにどれだけの金額が当たるか、ということを表す数字です。</p>
+<p>例えば、あなたが持っている会社の株が100円だったとします。その会社のEPSが10円だったら、その会社は1株あたり10円の利益を出しているということになります。</p>
+<h2>なぜEPSが大切なの？</h2>
+<p>EPSは、企業の**「稼ぎ力」**を表すバロメーターのようなものです。EPSが高いということは、その会社がそれだけたくさんお金を稼いでいる、ということになります。</p>
+<ul>
+<li><strong>企業の成長性</strong>: EPSがどんどん上がっていけば、その会社は成長していると考えられます。</li>
+<li><strong>投資判断の材料</strong>: 投資する会社を選ぶときに、EPSは重要な判断材料の一つになります。EPSが高い会社は、将来も安定した収益が期待できる可能性が高いからです。</li>
+</ul>
+<h2>EPSが高い・低いってどういうこと？</h2>
+<h3>EPSが高い場合</h3>
+<p>メリット:</p>
+<ul>
+<li>企業の収益力が高い</li>
+<li>株価が上昇する可能性が高い</li>
+<li>安定した配当が期待できる</li>
+</ul>
+<p>デメリット:</p>
+<ul>
+<li>株価が高く、割高に感じる場合がある</li>
+<li>成長が鈍化し、EPSが伸び悩んでいる可能性もある</li>
+</ul>
+<h3>EPSが低い場合</h3>
+<p>メリット:</p>
+<ul>
+<li>株価が安く、割安に感じる場合がある</li>
+<li>将来的に大きく成長する可能性がある</li>
+</ul>
+<p>デメリット:</p>
+<ul>
+<li>企業の業績が良くない可能性がある</li>
+<li>倒産のリスクがある</li>
+</ul>
+<h2>EPSだけ見ればいいの？</h2>
+<p>EPSは重要な指標ですが、これだけでは企業を評価することはできません。他の指標（PER、PBRなど）や、会社の事業内容、業界の動向なども総合的に判断する必要があります。</p>
+<h2>まとめ</h2>
+<p>EPSは、企業の収益性を測る上で重要な指標ですが、投資の判断材料の一つに過ぎません。EPSが高いからといって必ずしも良い株、低いからといって必ずしも悪い株というわけではありません。</p>
+<h2>よくある質問</h2>
+<h3>EPSが高い会社に投資するのが良いの？</h3>
+<p>一概にそうとは言えません。EPSが高い会社は、既に成長が成熟している可能性もあります。将来の成長性を重視する場合は、EPSだけでなく、他の指標も総合的に判断する必要があります。</p>
+<h3>EPSが低い会社に投資するのは危険なの？</h3>
+<p>必ずしも危険とは言えません。EPSが低い会社の中には、これから大きく成長する可能性を秘めている会社もいます。ただし、倒産のリスクも高いため、慎重な判断が必要です。</p>
+<h3>EPSはどのように計算するの？</h3>
+<p>EPS = 当期純利益 ÷ 発行済株式数 で計算します。</p>
+<p>この記事が、あなたの株式投資の一助となれば幸いです。</p>
+<p>ただし<strong>株式投資は、リスクを伴う行為です。</strong> 投資を行う際は、必ずご自身でよく調べて、ご自身の判断で行うようにしてください。</p>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"【株式投資 初心者向け】EPSとは"}],["$","time",null,{"children":"2024-08-16"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","株式投資",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/株式投資","children":"株式投資"}]}],["$","span","個別株",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/個別株","children":"個別株"}]}],["$","span","EPS",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/EPS","children":"EPS"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"【株式投資 初心者向け】EPSとは | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

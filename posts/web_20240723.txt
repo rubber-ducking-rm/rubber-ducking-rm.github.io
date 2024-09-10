@@ -1,0 +1,68 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","web_20240723","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","web_20240723","d"],{"children":["__PAGE__?{\"slug\":\"web_20240723\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","web_20240723","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:Te24,<p><a href="/posts/web_0717">MUI公式のコード</a>にリンクをつけました。</p>
+<h1>前提</h1>
+<ul>
+<li>next: 14.2.5</li>
+<li>mui/material: 5.16.4</li>
+</ul>
+<h1>コード</h1>
+<pre class="language-tsx"><code class="hljs language-tsx code-highlight"><span class="hljs-string">"use client"</span>;
+
+<span class="hljs-keyword">import</span> {
+  <span class="hljs-title class_">Drawer</span>,
+  <span class="hljs-title class_">Link</span>,
+  <span class="hljs-title class_">List</span>,
+  <span class="hljs-title class_">ListItem</span>,
+  <span class="hljs-title class_">ListItemButton</span>,
+  <span class="hljs-title class_">ListItemText</span>,
+} <span class="hljs-keyword">from</span> <span class="hljs-string">"@mui/material"</span>;
+
+<span class="hljs-keyword">const</span> drawerWidth = <span class="hljs-number">240</span>;
+
+<span class="hljs-keyword">const</span> links = [
+  { <span class="hljs-attr">title</span>: <span class="hljs-string">"Home"</span>, <span class="hljs-attr">link</span>: <span class="hljs-string">"/"</span> },
+  { <span class="hljs-attr">title</span>: <span class="hljs-string">"Blog"</span>, <span class="hljs-attr">link</span>: <span class="hljs-string">"/blog"</span> },
+];
+
+<span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">SideBar</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">Drawer</span>
+      <span class="hljs-attr">variant</span>=<span class="hljs-string">"permanent"</span>
+      <span class="hljs-attr">sx</span>=<span class="hljs-string">{{</span>
+        <span class="hljs-attr">width:</span> <span class="hljs-attr">drawerWidth</span>,
+        <span class="hljs-attr">flexShrink:</span> <span class="hljs-attr">0</span>,
+        [`&#x26; <span class="hljs-attr">.MuiDrawer-paper</span>`]<span class="hljs-attr">:</span> { <span class="hljs-attr">width:</span> <span class="hljs-attr">drawerWidth</span>, <span class="hljs-attr">boxSizing:</span> "<span class="hljs-attr">border-box</span>" },
+      }}
+    ></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">List</span>></span>
+        {links.map((text, _index) => (
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItem</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{text.title}</span> <span class="hljs-attr">disablePadding</span>></span>
+            <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItemButton</span>></span>
+              <span class="hljs-tag">&#x3C;<span class="hljs-name">Link</span> <span class="hljs-attr">href</span>=<span class="hljs-string">{text.link}</span> <span class="hljs-attr">underline</span>=<span class="hljs-string">"hover"</span> <span class="hljs-attr">color</span>=<span class="hljs-string">"inherit"</span>></span>
+                <span class="hljs-tag">&#x3C;<span class="hljs-name">ListItemText</span> <span class="hljs-attr">primary</span>=<span class="hljs-string">{text.title}</span> /></span>
+              <span class="hljs-tag">&#x3C;/<span class="hljs-name">Link</span>></span>
+            <span class="hljs-tag">&#x3C;/<span class="hljs-name">ListItemButton</span>></span>
+          <span class="hljs-tag">&#x3C;/<span class="hljs-name">ListItem</span>></span>
+        ))}
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">List</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">Drawer</span>></span></span>
+  );
+}
+
+
+</code></pre>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"MUIで作るサイドバーのサンプル改"}],["$","time",null,{"children":"2024-07-23"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","nextjs",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/nextjs","children":"nextjs"}]}],["$","span","mui",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/mui","children":"mui"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"MUIで作るサイドバーのサンプル改 | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

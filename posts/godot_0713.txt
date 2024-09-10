@@ -1,0 +1,112 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","godot_0713","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","godot_0713","d"],{"children":["__PAGE__?{\"slug\":\"godot_0713\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_0713","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:T15e2,<p><a href="https://godot-rust.github.io/book/index.html" rel="nofollow" target="_blank">公式</a>の方が詳しくて勉強になります。
+とりあえず動かすだけの手順を抜粋しています。
+　</p>
+<h1>前提</h1>
+<ul>
+<li>windows11</li>
+<li>Godot:4.2.2</li>
+<li>cargo:1.79.0</li>
+<li>windows上で正常に動いているプロジェクトに適応</li>
+</ul>
+<h1>手順</h1>
+<h2>emsdkインストール</h2>
+<pre><code class="code-highlight"><span class="code-line">git clone https://github.com/emscripten-core/emsdk.git
+</span><span class="code-line">cd emsdk
+</span><span class="code-line">./emsdk install 3.1.39
+</span><span class="code-line">./emsdk activate 3.1.39
+</span><span class="code-line">
+</span></code></pre>
+<h2>rustプロジェクトの編集</h2>
+<pre><code class="code-highlight"><span class="code-line">rustup toolchain install nightly
+</span><span class="code-line">rustup component add rust-src --toolchain nightly
+</span><span class="code-line">rustup target add wasm32-unknown-emscripten --toolchain nightly
+</span></code></pre>
+<h2>Cargo.toml編集</h2>
+<pre class="language-toml"><code class="hljs language-toml code-highlight"><span class="hljs-section">[package]</span>
+<span class="hljs-attr">name</span> = <span class="hljs-string">"rust"</span>
+<span class="hljs-attr">version</span> = <span class="hljs-string">"0.1.0"</span>
+<span class="hljs-attr">edition</span> = <span class="hljs-string">"2021"</span>
+
+
+<span class="hljs-section">[dependencies]</span>
+<span class="hljs-attr">godot</span> = { git = <span class="hljs-string">"https://github.com/godot-rust/gdext"</span>, branch = <span class="hljs-string">"master"</span>, features = [<span class="hljs-string">"experimental-wasm"</span>, <span class="hljs-string">"lazy-function-tables"</span>] }
+</code></pre>
+<h3>ビルド実行</h3>
+<pre><code class="code-highlight"><span class="code-line">cargo +nightly build -Zbuild-std --target wasm32-unknown-emscripten --release
+</span></code></pre>
+<h2>godotプロジェクトの編集</h2>
+<h3>.gdextensionを編集</h3>
+<pre><code class="code-highlight"><span class="code-line">[configuration]
+</span><span class="code-line">entry_symbol = "gdext_rust_init"
+</span><span class="code-line">compatibility_minimum = 4.2
+</span><span class="code-line">reloadable = true
+</span><span class="code-line">
+</span><span class="code-line">[libraries]
+</span><span class="code-line">linux.debug.x86_64 =     "res://../rust/target/debug/lib{YourCrate}.so"
+</span><span class="code-line">linux.release.x86_64 =   "res://../rust/target/release/lib{YourCrate}.so"
+</span><span class="code-line">windows.debug.x86_64 =   "res://../rust/target/debug/{YourCrate}.dll"
+</span><span class="code-line">windows.release.x86_64 = "res://../rust/target/release/{YourCrate}.dll"
+</span><span class="code-line">macos.debug =            "res://../rust/target/debug/lib{YourCrate}.dylib"
+</span><span class="code-line">macos.release =          "res://../rust/target/release/lib{YourCrate}.dylib"
+</span><span class="code-line">macos.debug.arm64 =      "res://../rust/target/debug/lib{YourCrate}.dylib"
+</span><span class="code-line">macos.release.arm64 =    "res://../rust/target/release/lib{YourCrate}.dylib"
+</span><span class="code-line">web.debug.wasm32 = "res://../rust/target/wasm32-unknown-emscripten/release/{YourCrate}.wasm"
+</span><span class="code-line">web.release.wasm32 = "res://../rust/target/wasm32-unknown-emscripten/release/{YourCrate}.wasm"
+</span></code></pre>
+<p>※web.debug.wasm32にdebugをしている指定するとエラーになる</p>
+<h3>godotエディタで編集</h3>
+<ol>
+<li>[プロジェクト]⇒[エクスポート]⇒[追加]⇒[Web]</li>
+<li>エクスポート先のパスを任意のパスに設定</li>
+<li>ExtensionsSupportを有効化</li>
+<li>すべてエクスポートからリリースを選択</li>
+</ol>
+<h2>動作確認</h2>
+<h3>IIS（Internet Information Services）有効化</h3>
+<ol>
+<li>[windowsキー]⇒[Windowsの機能の有効化または無効化]</li>
+<li>[インターネットインフォメーションサービス]をチェック
+<img src="/images/godot/IIS.png" alt="インターネットインフォメーションサービス"></li>
+</ol>
+<h3>IIS マネージャー編集</h3>
+<ol>
+<li>[windowsキー]⇒[インターネット インフォメーション サービス (IIS) マネージャー]</li>
+<li>左メニューから[Default Web Site]を選択</li>
+<li>[MIMEの種類]をダブルクリック</li>
+<li>右メニューから[追加...] を選択</li>
+<li>ファイル名の拡張子を「.pck」、MIMEの種類を「application/octet-stream」と入力
+<img src="/images/godot/0713/mime.png" alt="MIME"></li>
+<li>左メニューから[Default Web Site]を選択</li>
+<li>HTTP応答ヘッダーをダブルクリック</li>
+<li>右メニューから[追加...] を選択</li>
+<li>以下2つの値をセットする
+<pre><code class="code-highlight"><span class="code-line">名前：Cross-Origin-Embedder-Policy
+</span><span class="code-line">値：require-corp
+</span></code></pre>
+<pre><code class="code-highlight"><span class="code-line">名前：Cross-Origin-Opener-Policy
+</span><span class="code-line">値：same-origin
+</span></code></pre>
+</li>
+</ol>
+<h3>ブラウザで確認</h3>
+<p><a href="http://localhost/" rel="nofollow" target="_blank">localhost</a>にアクセスして表示されることを確認する</p>
+<h1>参考</h1>
+<ul>
+<li><a href="https://godot-rust.github.io/book/intro/hello-world.html#extension_listcfg" rel="nofollow" target="_blank">godot-rust book</a></li>
+</ul>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"gdextのWebエクスポート方法"}],["$","time",null,{"children":"2024-07-13"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","godot",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/godot","children":"godot"}]}],["$","span","rust",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/rust","children":"rust"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"gdextのWebエクスポート方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"gdextを用いたgodotとrustのセットアップ方法"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

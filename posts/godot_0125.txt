@@ -1,0 +1,146 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","godot_0125","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","godot_0125","d"],{"children":["__PAGE__?{\"slug\":\"godot_0125\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","godot_0125","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:T1f91,<p><a href="https://godot-rust.github.io/book/index.html" rel="nofollow" target="_blank">公式</a>の方が詳しくて勉強になります。
+とりあえず動かすだけの手順を抜粋しています。
+　</p>
+<h1>前提</h1>
+<ul>
+<li>Godot:4.2.2</li>
+<li>cargo:1.79.0</li>
+</ul>
+<h1>手順</h1>
+<h2>rustプロジェクト作成</h2>
+<h3>プロジェクト作成</h3>
+<pre><code class="code-highlight"><span class="code-line">cargo new rust --lib
+</span></code></pre>
+<h3>Cargo.toml編集</h3>
+<pre class="language-toml"><code class="hljs language-toml code-highlight"><span class="hljs-section">[package]</span>
+<span class="hljs-attr">name</span> = <span class="hljs-string">"rust"</span>
+<span class="hljs-attr">version</span> = <span class="hljs-string">"0.1.0"</span>
+<span class="hljs-attr">edition</span> = <span class="hljs-string">"2021"</span>
+
+<span class="hljs-section">[lib]</span>
+<span class="hljs-attr">crate-type</span> = [<span class="hljs-string">"cdylib"</span>]  <span class="hljs-comment"># Compile this crate to a dynamic C library.</span>
+
+<span class="hljs-section">[dependencies]</span>
+<span class="hljs-attr">godot</span> = { git = <span class="hljs-string">"https://github.com/godot-rust/gdext"</span>, branch = <span class="hljs-string">"master"</span>, features = [<span class="hljs-string">"experimental-wasm"</span>, <span class="hljs-string">"lazy-function-tables"</span>] }
+</code></pre>
+<h3>パッケージ作成</h3>
+<pre><code class="code-highlight"><span class="code-line">cd rust
+</span><span class="code-line">cargo build
+</span></code></pre>
+<h2>godotプロジェクト作成</h2>
+<h3>Godot Engineで新規作成</h3>
+<p>プロジェクト名は「godot」</p>
+<h3>.gdextensionを作成</h3>
+<p>作成したgodotフォルダ直下に作成</p>
+<pre><code class="code-highlight"><span class="code-line">[configuration]
+</span><span class="code-line">entry_symbol = "gdext_rust_init"
+</span><span class="code-line">compatibility_minimum = 4.2
+</span><span class="code-line">reloadable = true
+</span><span class="code-line">
+</span><span class="code-line">[libraries]
+</span><span class="code-line">linux.debug.x86_64 =     "res://../rust/target/debug/librust.so"
+</span><span class="code-line">linux.release.x86_64 =   "res://../rust/target/release/librust.so"
+</span><span class="code-line">windows.debug.x86_64 =   "res://../rust/target/debug/rust.dll"
+</span><span class="code-line">windows.release.x86_64 = "res://../rust/target/release/rust.dll"
+</span><span class="code-line">macos.debug =            "res://../rust/target/debug/librust.dylib"
+</span><span class="code-line">macos.release =          "res://../rust/target/release/librust.dylib"
+</span><span class="code-line">macos.debug.arm64 =      "res://../rust/target/debug/librust.dylib"
+</span><span class="code-line">macos.release.arm64 =    "res://../rust/target/release/librust.dylib"
+</span><span class="code-line">web.debug.wasm32 = "res://../rust/target/wasm32-unknown-emscripten/release/rust.wasm"
+</span><span class="code-line">web.release.wasm32 = "res://../rust/target/wasm32-unknown-emscripten/release/rust.wasm"
+</span></code></pre>
+<p>※web版はgdextのバグでdebugでビルドするとエラーになる</p>
+<h3>extension_list.cfgを作成</h3>
+<p>自動生成される「.godot」上で実施</p>
+<pre><code class="code-highlight"><span class="code-line">res://.gdextension
+</span></code></pre>
+<h3>godot公式チュートリアルに従ってプロジェクト作成</h3>
+<p><a href="https://docs.godotengine.org/en/stable/getting_started/step_by_step/scripting_first_script.html" rel="nofollow" target="_blank">公式チュートリアル</a></p>
+<ol>
+<li>Sprite2Dを作成</li>
+<li>Sprite2DのTextureにicon.svgをセットする</li>
+<li>Sprite2Dを画面中央に移動する</li>
+<li>player.tscnとして保存する</li>
+</ol>
+<h2>rustコード作成</h2>
+<h3>lib.rs編集</h3>
+<pre class="language-rust"><code class="hljs language-rust code-highlight"><span class="hljs-keyword">use</span> godot::prelude::*;
+
+<span class="hljs-keyword">struct</span> <span class="hljs-title class_">MyExtension</span>;
+
+<span class="hljs-meta">#[gdextension]</span>
+<span class="hljs-keyword">unsafe</span> <span class="hljs-keyword">impl</span> <span class="hljs-title class_">ExtensionLibrary</span> <span class="hljs-keyword">for</span> <span class="hljs-title class_">MyExtension</span> {}
+</code></pre>
+<h3>player.rs作成</h3>
+<p>godotで作成したSprite2Dを制御するクラス</p>
+<pre class="language-rust"><code class="hljs language-rust code-highlight"><span class="hljs-keyword">use</span> godot::classes::Sprite2D;
+<span class="hljs-keyword">use</span> godot::engine::ISprite2D;
+<span class="hljs-keyword">use</span> godot::prelude::*;
+
+<span class="hljs-meta">#[derive(GodotClass)]</span>
+<span class="hljs-meta">#[class(base=Sprite2D)]</span>
+
+<span class="hljs-keyword">struct</span> <span class="hljs-title class_">Player</span> {
+    speed: <span class="hljs-type">f64</span>,
+    angular_speed: <span class="hljs-type">f64</span>,
+
+    base: Base&#x3C;Sprite2D>,
+}
+
+<span class="hljs-meta">#[godot_api]</span>
+<span class="hljs-keyword">impl</span> <span class="hljs-title class_">Player</span> {}
+
+<span class="hljs-meta">#[godot_api]</span>
+<span class="hljs-keyword">impl</span> <span class="hljs-title class_">ISprite2D</span> <span class="hljs-keyword">for</span> <span class="hljs-title class_">Player</span> {
+    <span class="hljs-keyword">fn</span> <span class="hljs-title function_">init</span>(base: Base&#x3C;Sprite2D>) <span class="hljs-punctuation">-></span> <span class="hljs-keyword">Self</span> {
+        <span class="hljs-keyword">Self</span> {
+            speed: <span class="hljs-number">400.0</span>,
+            angular_speed: std::<span class="hljs-type">f64</span>::consts::PI,
+            base,
+        }
+    }
+    <span class="hljs-keyword">fn</span> <span class="hljs-title function_">physics_process</span>(&#x26;<span class="hljs-keyword">mut</span> <span class="hljs-keyword">self</span>, delta: <span class="hljs-type">f64</span>) {
+        <span class="hljs-keyword">let</span> <span class="hljs-variable">radians</span> = (<span class="hljs-keyword">self</span>.angular_speed * delta) <span class="hljs-keyword">as</span> <span class="hljs-type">f32</span>;
+        <span class="hljs-keyword">self</span>.<span class="hljs-title function_ invoke__">base_mut</span>().<span class="hljs-title function_ invoke__">rotate</span>(radians);
+
+        <span class="hljs-keyword">let</span> <span class="hljs-variable">rotation</span> = <span class="hljs-keyword">self</span>.<span class="hljs-title function_ invoke__">base</span>().<span class="hljs-title function_ invoke__">get_rotation</span>();
+        <span class="hljs-keyword">let</span> <span class="hljs-variable">velocity</span> = Vector2::UP.<span class="hljs-title function_ invoke__">rotated</span>(rotation) * <span class="hljs-keyword">self</span>.speed <span class="hljs-keyword">as</span> <span class="hljs-type">f32</span>;
+        <span class="hljs-keyword">self</span>.<span class="hljs-title function_ invoke__">base_mut</span>().<span class="hljs-title function_ invoke__">translate</span>(velocity * delta <span class="hljs-keyword">as</span> <span class="hljs-type">f32</span>);
+    }
+}
+
+</code></pre>
+<h3>ビルドする</h3>
+<p>ここを忘れるとgodot側にrustの内容が伝わらないので注意が必要</p>
+<pre><code class="code-highlight"><span class="code-line">cargo build
+</span></code></pre>
+<h2>godot側で動作確認</h2>
+<h3>rustで作成したクラスを反映</h3>
+<ol>
+<li>Sprite2Dを右クリック</li>
+<li>型を変更...を選択</li>
+<li>検索窓でPlayerを入力</li>
+<li>Playerを選択して変更</li>
+</ol>
+<h2>プロジェクトを実行(F5)する</h2>
+<p>godotのアイコンが時計回りで動いていたら完了</p>
+<h1>参考</h1>
+<ul>
+<li><a href="https://godot-rust.github.io/book/intro/hello-world.html#extension_listcfg" rel="nofollow" target="_blank">godot-rust book</a></li>
+</ul>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"gdextを用いたgodotとrustのセットアップ方法"}],["$","time",null,{"children":"2024-07-11"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","godot",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/godot","children":"godot"}]}],["$","span","rust",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/rust","children":"rust"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"gdextを用いたgodotとrustのセットアップ方法 | ブログタイトル"}],["$","meta","3",{"name":"description","content":"gdextを用いたgodotとrustのセットアップ方法"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

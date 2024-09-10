@@ -1,0 +1,65 @@
+3:I[9275,[],""]
+5:I[1343,[],""]
+6:I[4404,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"GoogleAnalytics"]
+7:I[5566,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+8:I[8791,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+9:I[9806,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],"default"]
+a:I[8917,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+b:I[7005,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+c:I[4885,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+d:I[2591,["540","static/chunks/540-51daf024c70ac83e.js","737","static/chunks/737-dd8c9147477b00ce.js","185","static/chunks/app/layout-6ff7c6d80bbbd8b6.js"],""]
+4:["slug","FXMT_20240826","d"]
+0:["SNMkkyq9KnsxYqSx4W4m8",[[["",{"children":["posts",{"children":[["slug","FXMT_20240826","d"],{"children":["__PAGE__?{\"slug\":\"FXMT_20240826\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["posts",{"children":[["slug","FXMT_20240826","d"],{"children":["__PAGE__",{},[["$L1","$L2"],null],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f6bd37aab40623f.css","precedence":"next","crossOrigin":"$undefined"}]]}],null]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"jp","children":[["$","head",null,{"children":["$","$L6",null,{"gaId":"G-FWRP8962MB"}]}],["$","body",null,{"className":"__className_36bd41","children":[["$","header",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"sx":{"minHeight":68,"backgroundColor":"black"},"position":"static","children":["$","$L9",null,{"children":[["$","$La",null,{"children":["$","$Lb",null,{"href":"/","children":["$","$Lc",null,{"alt":"Remy Sharp","src":"/header.jpg"}]}]}],["$","$Ld",null,{"variant":"h5","component":"div","color":"#FFFEF6","sx":{"flexGrow":1},"children":"Maemaemae"}],["$","$La",null,{"sx":{"left":0},"children":["$","$Lb",null,{"href":"https://x.com/maemaemae_rm","children":["$","img",null,{"src":"/x-logo-white.png","width":32,"alt":""}]}]}]]}]}]}]}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/677b0669c9656281.css","precedence":"next","crossOrigin":"$undefined"}]],"$Le"]]]]
+10:I[231,["231","static/chunks/231-305ac49148333a13.js","333","static/chunks/app/posts/%5Bslug%5D/page-5671908d8c9c40da.js"],""]
+f:T107f,<p>MQL4で自動売買システムを開発する上で、新規足が発生したタイミングを正確に捉えることは非常に重要です。なぜなら、多くの取引戦略が、新しいローソク足が形成されたタイミングでシグナルを生成し、売買を実行するためです。</p>
+<p>この記事では、MQL4で新規足が発生したタイミングを検出するためのコードを解説し、その仕組みを分かりやすくご紹介します。</p>
+<h2>新規足発生を検出するコードの仕組み</h2>
+<p>MQL4で新規足が発生したかどうかを判断するには、OnTick()関数と呼ばれる特別な関数を利用します。この関数は、新しいティック（価格の変動）が発生するたびに呼び出される仕組みになっています。</p>
+<pre><code class="code-highlight"><span class="code-line">// 変数の宣言
+</span><span class="code-line">datetime prevTime; // 前回足の時間を保持する変数
+</span><span class="code-line">
+</span><span class="code-line">void OnTick()
+</span><span class="code-line">{
+</span><span class="code-line">   // 新規足が発生した場合の処理
+</span><span class="code-line">   if(TimeLocal() != prevTime)
+</span><span class="code-line">   {
+</span><span class="code-line">      // 新規足が発生した時の処理をここに記述
+</span><span class="code-line">      Print("新規足が発生しました。時刻:", TimeLocal());
+</span><span class="code-line">      // 例：インジケーターの再計算、アラートの送信など
+</span><span class="code-line">
+</span><span class="code-line">      // 前回足の時間を更新
+</span><span class="code-line">      prevTime = TimeLocal();
+</span><span class="code-line">   }
+</span><span class="code-line">}
+</span></code></pre>
+<p>このコードでは、以下の処理を行っています。</p>
+<p><strong>prevTime変数の宣言:</strong>
+前回足の時間を記録するための変数を宣言します。</p>
+<p><strong>OnTick()関数:</strong></p>
+<ul>
+<li>現在の時間(TimeLocal())と前回記録した時間(prevTime)を比較します。</li>
+<li>両者が異なる場合、新しい足が始まったと判断し、新規足が発生したときの処理を実行します。</li>
+<li>新規足の処理が完了したら、prevTime変数を更新して、次の足の開始時刻を記録します。</li>
+</ul>
+<h2>新規足発生を検出するコードのポイント</h2>
+<h3>TimeLocal()関数:</h3>
+<p>サーバーのローカル時間を取得する関数です。</p>
+<h3>OnTick()関数:</h3>
+<p>ティックが発生するたびに呼び出される関数で、新規足発生のチェックを行います。</p>
+<h3>prevTime変数:</h3>
+<p>前回足の時間を記録することで、新規足が発生したかどうかを判断するための基準となります。</p>
+<h2>新規足発生を検出した後に行う処理</h2>
+<p>新規足が発生したタイミングで、様々な処理を実行することができます。</p>
+<h3>インジケーターの再計算:</h3>
+<p>新規足が形成されたタイミングで、インジケーターの値を再計算することで、より正確なシグナルを得ることができます。</p>
+<h3>アラートの送信:</h3>
+<p>新規足が発生したことを通知するアラートを送信することで、リアルタイムで市場の動きを把握することができます。</p>
+<h3>注文の実行:</h3>
+<p>新規足が発生したタイミングで、事前に設定された条件に基づいて注文を実行することができます。</p>
+<h2>まとめ</h2>
+<p>MQL4で新規足が発生したタイミングを正確に捉えることは、自動売買システム開発の基礎となる重要な要素です。この記事で紹介したコードを参考に、ご自身の取引戦略に合わせたプログラムを作成してみてください。</p>
+<h3>【免責事項】</h3>
+<p>この記事の内容は、あくまで一般的な情報提供を目的としており、投資に関するアドバイスではありません。投資は自己責任で行ってください。</p>
+2:["$","div",null,{"className":"prose dark:prose-invert mx-auto mt-24","children":[["$","h1",null,{"className":"mb-4 text-4xl font-katyou leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white","children":"MQL4でプログラミングするなら知っておきたい！新規足発生タイミングを正確に捉える方法"}],["$","time",null,{"children":"2024-08-26"}],["$","div",null,{"className":"border-t","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","div",null,{"className":"space-x-2 mt-16","children":[["$","span","FX",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/FX","children":"FX"}]}],["$","span","自動売買",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/自動売買","children":"自動売買"}]}],["$","span","MQL4",{"className":"badge bg-secondary underline bg-gray-300 rounded-lg shadow-sm  px-3 py-2","children":["$","$L10",null,{"href":"/tags/MQL4","children":"MQL4"}]}]]}]]}]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"MQL4でプログラミングするなら知っておきたい！新規足発生タイミングを正確に捉える方法 | ブログタイトル"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
